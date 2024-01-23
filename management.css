@@ -1,0 +1,12 @@
+form{background-color: aqua;padding-top: 40px ;margin: auto;width: 50%;height: 100%}
+.Priority{display: flex;margin-left: 40px;}
+h4{text-align: center;font-weight: bold;text-decoration: underline}
+.green{width: 100px;height: 50px;margin-left: 50px;background-color: green;border-radius: 5px}
+.blue{width: 100px;height: 50px;margin-left: 50px;background-color: blue;border-radius: 5px}
+#assi\ to\.{margin-left: 60px}
+p{padding-right: 90px}
+#Sdate{margin-left: 75px;width: 150px;padding-right: 25px}
+#Prname{margin-left: 53px;width: 150px;padding-right: 25px}
+#Edate{width: 143px;padding-right: 34px;padding-left: 2px;margin-left: 82px}
+#des{width: 125px;margin-left: 70px;padding-right: 4px;padding-left: 45px}
+label{margin-top: 17px}

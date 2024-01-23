@@ -1,0 +1,12 @@
+button{margin-left:70px;width: 420px}
+form{background-color: darkred;padding-top: 30px;width: 50%;margin: auto;height: 100%;padding-bottom: 20px}
+input[type=text],input[type=email],input[type=password],select{float:right;margin-right: 50px}
+label{position: relative;left:50px}
+.radio{display: flex}
+body{background-color: brown}
+select{position: relative;right: 60px}
+p{padding-left: 50px}
+#male{margin-right: 20px}
+#female{margin-right: 20px}
+#other{margin-right: 20px}
+#other,#female,#male{padding-right: 80px}
